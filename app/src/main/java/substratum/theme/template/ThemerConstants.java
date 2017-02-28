@@ -14,7 +14,7 @@ class ThemerConstants {
     static final Boolean ENFORCE_AMAZON_APP_STORE_INSTALL = false;
 
     // Blacklisted APKs to prevent theme launching
-    static final Boolean ENABLE_BLACKLISTED_APPLICATIONS = false;
+    static final Boolean ENABLE_BLACKLISTED_APPLICATIONS = true;
     static final String[] BLACKLISTED_APPLICATIONS = new String[]{
             "com.android.vending.billing.InAppBillingService.LOCK",
             "com.android.vending.billing.InAppBillingService.LACK",

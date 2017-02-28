@@ -1,6 +1,6 @@
 <resources>
-    <string name="ThemeName">Substratum Theme Template</string>
-    <string name="ThemeAuthor">[projekt.] development team</string>
+    <string name="ThemeName">Screwd Container</string>
+    <string name="ThemeAuthor">Fabi_92</string>
     <string-array name="ThemeChangelog">
         <item>Change One</item>
         <item>Change Two</item>
